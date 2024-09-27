@@ -2,7 +2,7 @@
 
 A quick start project that shows how to create and configure the Syncfusion [Vue Query Builder](https://www.syncfusion.com/vue-components/vue-query-builder?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-query-builder-gettingstarted-sample) component in a Vue project. This project contains simple code to bind a data source, customize the columns, and add rules at initial load. It also contains code to filter Data Grid records using the Query Builder.
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/query-builder?title=getting-started-with-the-vue-query-builder 
 
 Refer to the following documentation to learn about the Vue Query Builder component: https://ej2.syncfusion.com/vue/documentation/query-builder/vue-3-getting-started
 
